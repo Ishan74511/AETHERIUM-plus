@@ -7,7 +7,7 @@
 
 **“The AI that scores with integrity, and the system that shows you how.”**
 
-</div>
+
 
 ```
 ⬡───────────────────────────────────────────────────────────────────────────────────────⬡
@@ -26,12 +26,13 @@
  [![Focus](https://img.shields.io/badge/Focus-Research%20Integrity-0D2A5E?style=for-the-badge&logo=bookstack&logoColor=white)](#-overview) 
  [![Category](https://img.shields.io/badge/Category-AI%20Infrastructure-00D4FF?style=for-the-badge&logo=databricks&logoColor=white)](#-architecture)
 
----
+</div>
+
+![AETHERIUM+](https://github.com/Ishan74511/AETHERIUM-plus/raw/main/assests/baner%20%26%20wallpaper/AETHERIUM.png)
+
 > **"The AI that scores with integrity, and the system that shows you how."**
 >
 > *The most consequential innovation is not the AI model itself, but the infrastructure of trust surrounding it. By decoupling verification from human authority and binding it to cryptographic proof, AETHERIUM+ shifts the basis of academic trust from* ***who said it*** *to* ***how it was verified.***
-
-![AETHERIUM+](AETHERIUM.png)
 
 ## ✦ Overview
 
@@ -67,14 +68,20 @@ Research ecosystems today are under mounting pressure. Review quality varies sig
 
 ---
 
-  ⬡ ─────────────────────────────────────────────────────────────── ⬡
-<div align="center">◆ AETHERIUM+ ◆
+  ⬡ ───────────────────────────────────────────────────────────────────────────────────── ⬡
+<br>
+
+<div align="center">
+
+
+◆ AETHERIUM+ ◆
 
 Built for transparent, modern research evaluation. Where evaluation becomes more explainable, more structured,& more trusted.<br>
 
 Copyright (c) 2026 by AETHERIUM+
 
 </div>
-  ⬡ ─────────────────────────────────────────────────────────────── ⬡
+
+  ⬡ ────────────────────────────────────────────────────────────────────────────────────── ⬡
 
 ---
