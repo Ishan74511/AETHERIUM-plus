@@ -48,6 +48,8 @@ This repository presents the public-facing vision, product direction, and collab
 
 ## ✦ Why AETHERIUM+
 
+![AETHERIUMplus](https://github.com/Ishan74511/AETHERIUM-plus/blob/main/assests/baner%20%26%20wallpaper/image_e8632868-6229-4e82-93ec-9f582f7d968e.png)
+
 Research ecosystems today are under mounting pressure. Review quality varies significantly across contexts, submission volumes are growing faster than reviewer capacity, and the logic behind evaluation decisions is rarely visible to the people it affects most. AETHERIUM+ is designed to address this gap with a platform built on four core commitments:
 
 **Evidence-grounded analysis** connects scores and conclusions to the material that supports them, so outcomes are defensible rather than opaque. **Structured evaluation logic** replaces ad hoc judgment with consistent, rubric-driven workflows that hold up under scrutiny. **Transparent decision pathways** give reviewers, institutions, and authors visibility into how assessments were reached. **Scalable infrastructure** grows with the organisations that depend on it, without sacrificing quality or credibility.
